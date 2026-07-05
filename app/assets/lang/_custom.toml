@@ -1,0 +1,20 @@
+# Custom Language File for HardcoreRun Launcher
+
+[ejs.app]
+title = "HardcoreRun Launcher"
+
+[ejs.landing]
+mediaGitHubURL = "https://github.com/donghune/hardcorerun-launcher"
+mediaXURL = "#"
+mediaInstagramURL = "#"
+mediaYouTubeURL = "#"
+mediaDiscordURL = "#"
+
+[ejs.settings]
+sourceGithubLink = "https://github.com/donghune/hardcorerun-launcher"
+supportLink = "https://github.com/donghune/hardcorerun-launcher/issues"
+
+[ejs.welcome]
+welcomeHeader = "BLUE ZONE BATTLE ROYALE"
+welcomeDescription = "Blue Zone은 마인크래프트에서 배틀로얄 경험을 제공하는 모드팩입니다. JourneyMap과 연동된 미니맵에서 블루존 축소 영역을 실시간으로 확인하며, 살아남기 위해 전략적으로 이동하세요. 안전 지대가 줄어들기 전에 준비를 마치세요!"
+welcomeDescCTA = "몇 번의 클릭만으로 전장에 입장할 수 있습니다."
