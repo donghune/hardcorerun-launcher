@@ -145,6 +145,45 @@
             "MD5": "2acee237c879348d7013baf47e4a58a6",
             "url": "https://github.com/donghune/hardcorerun-launcher/releases/download/v1.0.0/hardcorerun_client-1.0-SNAPSHOT.jar"
           }
+        },
+        {
+          "id": "io.github.koreanpatch:korean-chat-patch:1.9.5",
+          "name": "Korean Chat Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 595769,
+            "url": "https://cdn.modrinth.com/data/qyulnpBL/versions/LHVN4zQC/koreanpatch-fabric-1.9.5%2Bmc1.21.3.jar"
+          }
+        },
+        {
+          "id": "com.xaero:xaeros-minimap:1.21.4-26.2.0",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2208564,
+            "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/nbm9WikB/xaerominimap-fabric-1.21.4-26.2.0.jar"
+          }
+        },
+        {
+          "id": "kr.donghune:hardcorerun-popcorn:1.0.0@zip",
+          "name": "HardcoreRun Popcorn ResourcePack",
+          "type": "File",
+          "artifact": {
+            "size": 4616,
+            "MD5": "ba5b178441b49db4236ed48850bef477",
+            "path": "resourcepacks/hardcorerun-popcorn.zip",
+            "url": "https://github.com/donghune/hardcorerun-launcher/releases/download/v1.0.0/hardcorerun-popcorn-v1.zip"
+          }
+        },
+        {
+          "id": "kr.donghune:hardcorerun-options-seed:1",
+          "name": "HardcoreRun Default Options (seed once)",
+          "type": "File",
+          "artifact": {
+            "size": 87,
+            "path": "options.txt",
+            "url": "https://raw.githubusercontent.com/donghune/hardcorerun-launcher/master/dist-assets/options.txt"
+          }
         }
       ]
     }
